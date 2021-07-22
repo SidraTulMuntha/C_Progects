@@ -1,4 +1,4 @@
-//Program to receive marks of the Physics , Maths ans Chemistry rom the user and check its eligibility for course .
+//Program to receive marks of the Physics , Maths and Chemistry from the user and check its eligibility for course .
 #include<stdio.h>
 void main()
 {
